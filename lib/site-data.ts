@@ -137,14 +137,7 @@ export const plans = [
 ];
 
 export const trainers = [
-  {
-    name: "Nadia El Amrani",
-    specialty: "Strength and Conditioning",
-    experience: "10 years",
-    skills: ["Hypertrophy", "Mobility", "Athletic strength"],
-    image:
-      "https://images.unsplash.com/photo-1609899464726-209befaac5f2?auto=format&fit=crop&w=900&q=80",
-  },
+
   {
     name: "Yassine Karim",
     specialty: "Boxing and HIIT",
